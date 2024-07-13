@@ -348,9 +348,7 @@ CELERY_BEAT_SCHEDULE = {
         ),
     },
 }
-SUPPORT_EMAILS = [
-    "ashwin@micropyramid.com",
-]
+SUPPORT_EMAILS = [ ]
 
 
 THUMBNAIL_COLORSPACE = None
